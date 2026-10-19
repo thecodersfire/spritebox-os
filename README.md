@@ -24,3 +24,9 @@ The `spritebox.svg` wallpaper is original. Spritebox OS is an independent Ubuntu
 
 See [FEATURES.md](FEATURES.md) for three local tools included for pixel art.
 
+
+The installer also includes three purpose-specific applications: **Krita, Kdenlive, Blender**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Krita, Kdenlive, Blender**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Krita, Kdenlive, Blender**. See [FEATURES.md](FEATURES.md).

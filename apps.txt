@@ -3,3 +3,8 @@ org.gimp.GIMP
 org.inkscape.Inkscape
 org.mozilla.firefox
 com.opera.opera-gx
+
+# Three additional preinstalled purpose-specific applications
+org.kde.krita
+org.kde.kdenlive
+org.blender.Blender
